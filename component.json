@@ -1,0 +1,10 @@
+{
+  "name": "json-stable-stringify",
+  "version": "0.0.1",
+  "description": "deterministic JSON.stringify() to get deterministic hashes from stringified results",
+  "keywords": ["hash", "stringify"],
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
