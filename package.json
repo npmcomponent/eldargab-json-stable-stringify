@@ -1,28 +1,11 @@
 {
-  "name": "json-stable-stringify",
-  "version": "0.0.1",
+  "name": "eldargab-json-stable-stringify",
   "description": "deterministic JSON.stringify() to get deterministic hashes from stringified results",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/eldargab/json-stable-stringify.git"
-  },
+  "version": "0.0.1",
   "keywords": [
-    "json",
-    "stringify",
-    "deterministic",
     "hash",
-    "stable"
+    "stringify"
   ],
-  "author": {
-    "name": "Eldar Gabdullin",
-    "email": "eldargab@gmail.com"
-  },
-  "license": "MIT",
-  "scripts": {
-    "test": "mocha -R spec"
-  },
-  "devDependencies": {
-    "mocha": "~1.12.0",
-    "should": "~1.2.2"
-  }
+  "dependencies": {},
+  "license": "MIT"
 }
